@@ -52,8 +52,9 @@ This project covers the complete development flow:
 - [x] Compensation design completed
 - [x] KiCad schematic completed
 - [x] PCB layout completed
-- [x] PCB ordered
-- [ ] Assembly
+- [x] Design completed
+- [X] PCB ordered
+- [X] Assembly
 - [ ] Hardware validation
 - [ ] Efficiency characterization
 - [ ] Thermal characterization
