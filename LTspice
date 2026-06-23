@@ -1,1 +1,0 @@
-LTspice simulation files.
