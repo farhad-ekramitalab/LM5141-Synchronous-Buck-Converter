@@ -19,6 +19,14 @@ This project covers the complete development flow:
 <img width="720" height="538" alt="3D Render KiCad" src="https://github.com/user-attachments/assets/6e7bee61-964f-4484-b1b9-3c3af9db51b6" />
 
 ---
+## 📄 Portfolio Report
+
+A concise engineering portfolio summarizing the complete design workflow, including system specifications, LTspice simulations, control-loop design, PCB implementation, manufacturing, and engineering skills demonstrated throughout the project.
+
+**Report:**
+
+[`Docs/LM5141-Synchronous Buck Converter Report.pdf`](Docs/LM5141-Synchronous%20Buck%20Converter%20Report.pdf)
+
 
 ## Specifications
 
@@ -71,18 +79,14 @@ This project covers the complete development flow:
 
 ---
 
-## Repository Structure
+## 🔗 Additional Resources
 
-```
+* 📁 **KiCad Project:** `KiCad/`
+* ⚡ **LTspice Simulations:** `LTspice/`
+* 🖼️ **Project Images:** `Images/`
+* 📦 **Bill of Materials (BOM):** `BOM/`
+* 📄 **Portfolio Report:** `Docs/LM5141-Synchronous Buck Converter Report.pdf`
 
-Docs/
-LTspice/
-KiCad/
-Images/
-Measurements/
-BOM/
-
-```
 
 ---
 
