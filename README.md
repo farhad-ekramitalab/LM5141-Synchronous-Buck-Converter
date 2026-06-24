@@ -14,6 +14,9 @@ This project covers the complete development flow:
 - 4-layer PCB layout
 - Manufacturing preparation
 - Hardware validation (in progress)
+<img width="1446" height="674" alt="Schematic KiCad" src="https://github.com/user-attachments/assets/378a9dd2-7d88-4e29-9a8a-aeff4852b9e2" />
+<img width="1133" height="849" alt="Layout KiCad" src="https://github.com/user-attachments/assets/76c8c442-038a-4de7-9c5e-c29042a39ac7" />
+<img width="720" height="538" alt="3D Render KiCad" src="https://github.com/user-attachments/assets/6e7bee61-964f-4484-b1b9-3c3af9db51b6" />
 
 ---
 
